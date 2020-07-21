@@ -2,7 +2,6 @@ import React from 'react';
 import logo from './assets/images/logo.svg';
 import './assets/css/App.css';
 
-//Importar Componentes
 import MyComponent from './Components/MyComponent';
 
 function Helloword(name , age){
@@ -14,7 +13,7 @@ function Helloword(name , age){
 }
 
 function App() {
- var name = "IBET";
+ var name = "Ibet con b, no Ivette.";
 
   return (
     <div className="App">
