@@ -1,7 +1,6 @@
 {
-  "name": "redis-cache",
+  "name": "redis-cache2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "axios": "^0.19.2",
     "express": "^4.17.1",
-    "redis": "^3.0.2",
-    "response-time": "^2.3.2"
+    "node-fetch": "^2.6.0",
+    "redis": "^3.0.2"
   }
 }
